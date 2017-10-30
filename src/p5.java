@@ -8,7 +8,7 @@ public class p5 {
         double c = (double) a;
         double d = (double) b;
         System.out.println(c/2.54);
-        System.out.println(d/0.454);//尚未完成
+        System.out.println(d/0.454);
 
     }
 }
